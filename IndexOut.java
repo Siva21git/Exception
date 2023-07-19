@@ -16,6 +16,7 @@ public class IndexOut {
 			System.out.println("xxx");
 		} catch (IndexOutOfBoundsException e) {
 			System.out.println("xxxx");
+			System.out.println("chumaa");
 		}
 	}
 
